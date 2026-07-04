@@ -4,12 +4,14 @@ import { fallbackProjects } from '../../data/fallbackData';
 import bookFairImg from '../../assets/crowded-bookstore-diverse-people-browsing-bookshelves-stalls-357624114.webp';
 import taskManagementImg from '../../assets/top-task-management-software-for-teams-banner-image-696x464.jpg';
 import weatherAppImg from '../../assets/unnamed.webp';
+import studentShowcaseImg from '../../assets/student_showcase.png';
 import './Projects.css';
 
 const projectImages = {
   'Book Fair Stall Reservation System': bookFairImg,
   'Task Management System': taskManagementImg,
-  'Weather App': weatherAppImg
+  'Weather App': weatherAppImg,
+  'Student Showcase Projects Group Project': studentShowcaseImg
 };
 
 export default function Projects() {

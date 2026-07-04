@@ -147,5 +147,13 @@ export const fallbackProjects = [
     liveUrl: '#',
     githubUrl: 'https://github.com/Kajaluxmy/Weather',
     order: 3
+  },
+  {
+    title: 'Student Showcase Projects Group Project',
+    description: 'Developed a full-stack Student Project Showcase Portal enabling students to publish projects, recruiters to discover talent, and administrators to manage approvals through role-based dashboards.',
+    tags: ['React', 'Node.js', 'Express', 'MySQL', 'Google OAuth', 'JWT', 'Tailwind CSS'],
+    liveUrl: '#',
+    githubUrl: 'https://github.com/Kajaluxmy/student-showcase-projects',
+    order: 4
   }
 ];
