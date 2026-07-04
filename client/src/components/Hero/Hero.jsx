@@ -1,6 +1,6 @@
 
 import React from 'react';
-import developerAvatar from '../../assets/profile.png';
+import developerAvatar from '../../assets/profile.jpg';
 import './Hero.css';
 
 export default function Hero() {
