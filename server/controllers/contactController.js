@@ -29,7 +29,7 @@ const createMessage = async (req, res) => {
       const emailService = process.env.EMAIL_SERVICE;
       const emailUser = process.env.EMAIL_USER;
       const emailPass = process.env.EMAIL_PASS;
-      const receiverEmail = process.env.RECEIVER_EMAIL || 'kajalluxsi2003@gmail.com';
+      const receiverEmail = process.env.RECEIVER_EMAIL || 'kanesarasakajaluxmy@gmail.com';
 
       
       if (emailUser && emailPass && emailUser !== 'your-email-address@gmail.com' && emailPass !== 'your-gmail-app-password') {
